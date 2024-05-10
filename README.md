@@ -49,42 +49,42 @@ asyncio.run(bypass("https://linkvertise.com/1160317/pastedrop-evon-and-vega-x?o=
 
 ### PREMIUM-API Support
 
-Linkvertise
-Work.ink
-LootLabs
-AdMaven-AllDomains
-social-unlock
-Rekonise
-Boost.ink
-AdFocus
-VegaX
-Trigon evo
-Mediafire (DDL)
-V.gd
-Is.gd
-Href.li
-TinyUrl
-T.LY
-Bit.ly
-Acortalink.me
-Shortit
-Linkvip
-Adshnk
-Shorterall
-Skiplink.me
-Maxurlz
-Mirrored.to
-Sub2unlock
-PandaDevKit
-Delta
-CodeX
-Hohohub
-Arceus X
-Mboost
-leasurepartment
-Valyse
-Hydrogen Android
-Hbhammaddyar
+- Linkvertise
+- Work.ink
+- LootLabs
+- AdMaven-AllDomains
+- social-unlock
+- Rekonise
+- Boost.ink
+- AdFocus
+- VegaX
+- Trigon evo
+- Mediafire (DDL)
+- V.gd
+- Is.gd
+- Href.li
+- TinyUrl
+- T.LY
+- Bit.ly
+- Acortalink.me
+- Shortit
+- Linkvip
+- Adshnk
+- Shorterall
+- Skiplink.me
+- Maxurlz
+- Mirrored.to
+- Sub2unlock
+- PandaDevKit
+- Delta
+- CodeX
+- Hohohub
+- Arceus X
+- Mboost
+- leasurepartment
+- Valyse
+- Hydrogen Android
+- Hbhammaddyar
 
 ### License
 Distributed under the MIT License. See `LICENSE` for more information.
