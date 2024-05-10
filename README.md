@@ -90,7 +90,7 @@ asyncio.run(bypass("https://linkvertise.com/1160317/pastedrop-evon-and-vega-x?o=
 Distributed under the MIT License. See `LICENSE` for more information.
 
 ### Credits and Acknowledgments
-Special thanks to Woo<y for the initial concept and to all beta testers who provided essential feedback.
+Special thanks to Woozy for the initial concept and to all beta testers who provided essential feedback.
 
 ### Contact
-For further information, support, or contributions, please contact [your-email@example.com].
+Contact me rlow._. on discord for more information
