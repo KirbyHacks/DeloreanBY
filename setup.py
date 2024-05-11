@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
     name='deloreanby',
-    version='0.1.0',    
+    version='0.2.1',    
     description='A Python package that bypasses advertisements to streamline user experiences with content.',
     url='https://github.com/KirbyHacks/DeloreanBY',
     author='! rL⌀w',
