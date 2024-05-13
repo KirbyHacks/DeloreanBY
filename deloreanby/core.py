@@ -9,7 +9,7 @@ class DeloreanPremium():
                 if response.status != 200:
                     return await response.text()
                 try:
-                    r = json.loads(await response.text())
+                    r = await response.json()
                     if advanced_mode:
                         return r
                     return r["result"]
@@ -24,7 +24,7 @@ class DeloreanFree():
                 if response.status != 200:
                     return await response.text()
                 try:
-                    r = json.loads(await response.text())
+                    r = await response.json()
                     return r["result"]
                 except Exception as e:
                     print(e)
@@ -37,7 +37,7 @@ class DeloreanOwner():
                 if response.status != 200:
                     return await response.text()
                 try:
-                    r = json.loads(await response.text())
+                    r = await response.json()
                     if advanced_mode:
                         return r
                     return r["result"]
