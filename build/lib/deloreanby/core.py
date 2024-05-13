@@ -1,6 +1,5 @@
 import aiohttp
 from urllib.parse import quote
-import json
 
 class DeloreanPremium():
     async def get(self, *, url, api_key, advanced_mode=False):
